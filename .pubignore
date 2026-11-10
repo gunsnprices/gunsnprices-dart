@@ -1,0 +1,10 @@
+# Same as .gitignore (a .pubignore replaces it for publishing) ...
+.dart_tool/
+build/
+doc/api/
+pubspec.lock
+.DS_Store
+# ... plus maintainer files that users don't need
+.github/
+tool/
+PUBLISHING.md
